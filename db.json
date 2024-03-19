@@ -8,6 +8,7 @@
           "reviews_count": 200,
           "time_taken": 20,
           "distance": 1.2,
+      "category":"Gravy",
           "tag": "Best Seller"
         },
         {
@@ -18,6 +19,7 @@
           "reviews_count": 180,
           "time_taken": 25,
           "distance": 1.3,
+          "category":"Gravy",
           "tag": "Vegetarian"
         },
         {
@@ -27,6 +29,7 @@
           "ingredients": "Mutton, yogurt, spices, tomatoes",
           "reviews_count": 220,
           "time_taken": 30,
+          "category":"Gravy",
           "distance": 1.5,
           "tag": "Spicy"
         },
@@ -36,6 +39,7 @@
           "rating": 4.4,
           "ingredients": "Paneer, spinach, cream, spices",
           "reviews_count": 190,
+          "category":"Veg",
           "time_taken": 25,
           "distance": 1.4,
           "tag": "Vegetarian"
@@ -47,6 +51,7 @@
           "ingredients": "Chicken, bell peppers, spices, onions",
           "reviews_count": 250,
           "time_taken": 28,
+          "category":"Non Veg",
           "distance": 1.3,
           "tag": "Best Seller"
         },{
@@ -57,6 +62,7 @@
           "reviews_count": 250,
           "time_taken": 30,
           "distance": 1.5,
+          "category":"Non Veg",
           "tag": "Best Seller"
         },
         {
@@ -67,6 +73,7 @@
           "reviews_count": 200,
           "time_taken": 25,
           "distance": 1.3,
+          "category":"Veg",
           "tag": "Vegetarian"
         },
         {
@@ -77,6 +84,7 @@
           "reviews_count": 220,
           "time_taken": 28,
           "distance": 1.4,
+          "category":"Gravy",
           "tag": "Spicy"
         },
         {
@@ -87,6 +95,7 @@
           "reviews_count": 190,
           "time_taken": 25,
           "distance": 1.2,
+          "category":"Veg",
           "tag": "Vegetarian"
         },
         {
@@ -97,11 +106,13 @@
           "reviews_count": 180,
           "time_taken": 27,
           "distance": 1.6,
+          "category":"Gravy",
           "tag": "Best Seller"
         },{
           "food_name": "Gulab Jamun",
           "food_image": "<image_url_for_food>",
           "rating": 4.9,
+          "category":"Desert",
           "ingredients": "Milk solids, sugar, rose syrup",
           "reviews_count": 300,
           "time_taken": 15,
@@ -116,6 +127,7 @@
           "reviews_count": 280,
           "time_taken": 18,
           "distance": 0.9,
+          "category":"Desert",
           "tag": "Sweet"
         },
     {
@@ -126,6 +138,7 @@
       "reviews_count": 260,
       "time_taken": 12,
       "distance": 0.7,
+      "category":"Desert",
       "tag": "Indulgent"
     },
     {
@@ -134,6 +147,7 @@
       "rating": 4.8,
       "ingredients": "Flour, sugar, cocoa powder, eggs",
       "reviews_count": 320,
+      "category":"Desert",
       "time_taken": 20,
       "distance": 1.0,
       "tag": "Decadent"
@@ -146,6 +160,7 @@
       "reviews_count": 280,
       "time_taken": 10,
       "distance": 0.5,
+      "category":"Desert",
       "tag": "Healthy"
     },{
       "food_name": "Kung Pao Chicken",
@@ -155,6 +170,7 @@
       "reviews_count": 350,
       "time_taken": 25,
       "distance": 1.5,
+      "category":"Chinese",
       "tag": "Spicy"
     },
     {
@@ -163,6 +179,7 @@
       "rating": 4.6,
       "ingredients": "Pork, pineapple, bell peppers, sweet and sour sauce",
       "reviews_count": 320,
+      "category":"Chinese",
       "time_taken": 30,
       "distance": 1.2,
       "tag": "Tangy"
@@ -176,6 +193,7 @@
       "time_taken": 35,
       "distance": 1.0,
       "tag": "Savory"
+      "category":"Chinese",
     },
     {
       "food_name": "Mapo Tofu",
@@ -186,6 +204,7 @@
       "time_taken": 20,
       "distance": 1.3,
       "tag": "Spicy"
+      "category":"Chinese",
     },
     {
       "food_name": "Chow Mein",
@@ -196,6 +215,7 @@
       "time_taken": 25,
       "distance": 1.2,
       "tag": "Satisfying"
+      "category":"Chinese",
     },{
       "food_name": "Margherita Pizza",
       "food_image": "<image_url_for_margherita_pizza>",
@@ -204,6 +224,7 @@
       "reviews_count": 400,
       "time_taken": 30,
       "distance": 1.2,
+      "category":"Chinese",
       "tag": "Classic"
     },
     {
@@ -214,7 +235,8 @@
       "reviews_count": 380,
       "time_taken": 35,
       "distance": 1.5,
-      "tag": "Savory"
+      "tag": "Savory",
+      "category":"Pizza"
     },
     {
       "food_name": "Vegetarian Pizza",
@@ -224,7 +246,8 @@
       "reviews_count": 350,
       "time_taken": 40,
       "distance": 1.3,
-      "tag": "Healthy"
+      "tag": "Healthy",
+      "category":"Pizza"
     },
     {
       "food_name": "Hawaiian Pizza",
@@ -234,7 +257,8 @@
       "reviews_count": 320,
       "time_taken": 35,
       "distance": 1.4,
-      "tag": "Tropical"
+      "tag": "Tropical",
+      "category":"Pizza"
     },
     {
       "food_name": "BBQ Chicken Pizza",
@@ -244,7 +268,8 @@
       "reviews_count": 330,
       "time_taken": 40,
       "distance": 1.6,
-      "tag": "Smoky"
+      "tag": "Smoky",
+      "category":"Pizza"
     }
   ],
   "profile": {
