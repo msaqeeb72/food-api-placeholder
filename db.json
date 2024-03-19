@@ -1,8 +1,250 @@
 {
-  "posts": [
+  "foods": [
     {
-      "id": 1,
-      "title": "hello"
+          "food_name": "Chicken Masala",
+          "food_image": "https://example.com/chicken_masala.jpg",
+          "rating": 4.5,
+          "ingredients": "Chicken, spices, onions, tomatoes",
+          "reviews_count": 200,
+          "time_taken": 20,
+          "distance": 1.2,
+          "tag": "Best Seller"
+        },
+        {
+          "food_name": "Paneer Butter Masala",
+          "food_image": "https://example.com/paneer_butter_masala.jpg",
+          "rating": 4.7,
+          "ingredients": "Paneer, butter, cream, spices",
+          "reviews_count": 180,
+          "time_taken": 25,
+          "distance": 1.3,
+          "tag": "Vegetarian"
+        },
+        {
+          "food_name": "Mutton Rogan Josh",
+          "food_image": "https://example.com/mutton_rogan_josh.jpg",
+          "rating": 4.6,
+          "ingredients": "Mutton, yogurt, spices, tomatoes",
+          "reviews_count": 220,
+          "time_taken": 30,
+          "distance": 1.5,
+          "tag": "Spicy"
+        },
+        {
+          "food_name": "Palak Paneer",
+          "food_image": "https://example.com/palak_paneer.jpg",
+          "rating": 4.4,
+          "ingredients": "Paneer, spinach, cream, spices",
+          "reviews_count": 190,
+          "time_taken": 25,
+          "distance": 1.4,
+          "tag": "Vegetarian"
+        },
+        {
+          "food_name": "Kadai Chicken",
+          "food_image": "https://example.com/kadai_chicken.jpg",
+          "rating": 4.8,
+          "ingredients": "Chicken, bell peppers, spices, onions",
+          "reviews_count": 250,
+          "time_taken": 28,
+          "distance": 1.3,
+          "tag": "Best Seller"
+        },{
+          "food_name": "Chicken Biryani",
+          "food_image": "https://example.com/chicken_biryani.jpg",
+          "rating": 4.8,
+          "ingredients": "Basmati rice, chicken, spices",
+          "reviews_count": 250,
+          "time_taken": 30,
+          "distance": 1.5,
+          "tag": "Best Seller"
+        },
+        {
+          "food_name": "Paneer Butter Masala",
+          "food_image": "https://example.com/paneer_butter_masala.jpg",
+          "rating": 4.7,
+          "ingredients": "Paneer, butter, cream, spices",
+          "reviews_count": 200,
+          "time_taken": 25,
+          "distance": 1.3,
+          "tag": "Vegetarian"
+        },
+        {
+          "food_name": "Mutton Curry",
+          "food_image": "https://example.com/mutton_curry.jpg",
+          "rating": 4.6,
+          "ingredients": "Mutton, spices, onions, tomatoes",
+          "reviews_count": 220,
+          "time_taken": 28,
+          "distance": 1.4,
+          "tag": "Spicy"
+        },
+        {
+          "food_name": "Vegetable Biryani",
+          "food_image": "https://example.com/vegetable_biryani.jpg",
+          "rating": 4.5,
+          "ingredients": "Basmati rice, mixed vegetables, spices",
+          "reviews_count": 190,
+          "time_taken": 25,
+          "distance": 1.2,
+          "tag": "Vegetarian"
+        },
+        {
+          "food_name": "Fish Curry",
+          "food_image": "https://example.com/fish_curry.jpg",
+          "rating": 4.4,
+          "ingredients": "Fish, spices, coconut milk",
+          "reviews_count": 180,
+          "time_taken": 27,
+          "distance": 1.6,
+          "tag": "Best Seller"
+        },{
+          "food_name": "Gulab Jamun",
+          "food_image": "<image_url_for_food>",
+          "rating": 4.9,
+          "ingredients": "Milk solids, sugar, rose syrup",
+          "reviews_count": 300,
+          "time_taken": 15,
+          "distance": 0.8,
+          "tag": "Sweet"
+        },
+        {
+          "food_name": "Rasgulla",
+          "food_image": "<image_url_for_food>",
+          "rating": 4.7,
+          "ingredients": "Paneer, sugar syrup",
+          "reviews_count": 280,
+          "time_taken": 18,
+          "distance": 0.9,
+          "tag": "Sweet"
+        },
+    {
+      "food_name": "Ice Cream Sundae",
+      "food_image": "<image_url_for_ice_cream_sundae>",
+      "rating": 4.6,
+      "ingredients": "Ice cream, chocolate sauce, nuts",
+      "reviews_count": 260,
+      "time_taken": 12,
+      "distance": 0.7,
+      "tag": "Indulgent"
+    },
+    {
+      "food_name": "Chocolate Cake",
+      "food_image": "<image_url_for_chocolate_cake>",
+      "rating": 4.8,
+      "ingredients": "Flour, sugar, cocoa powder, eggs",
+      "reviews_count": 320,
+      "time_taken": 20,
+      "distance": 1.0,
+      "tag": "Decadent"
+    },
+    {
+      "food_name": "Fruit Salad",
+      "food_image": "<image_url_for_fruit_salad>",
+      "rating": 4.5,
+      "ingredients": "Assorted fruits, honey, lime juice",
+      "reviews_count": 280,
+      "time_taken": 10,
+      "distance": 0.5,
+      "tag": "Healthy"
+    },{
+      "food_name": "Kung Pao Chicken",
+      "food_image": "<image_url_for_kung_pao_chicken>",
+      "rating": 4.8,
+      "ingredients": "Chicken, peanuts, vegetables, chili peppers",
+      "reviews_count": 350,
+      "time_taken": 25,
+      "distance": 1.5,
+      "tag": "Spicy"
+    },
+    {
+      "food_name": "Sweet and Sour Pork",
+      "food_image": "<image_url_for_sweet_and_sour_pork>",
+      "rating": 4.6,
+      "ingredients": "Pork, pineapple, bell peppers, sweet and sour sauce",
+      "reviews_count": 320,
+      "time_taken": 30,
+      "distance": 1.2,
+      "tag": "Tangy"
+    },
+    {
+      "food_name": "Dumplings",
+      "food_image": "<image_url_for_dumplings>",
+      "rating": 4.7,
+      "ingredients": "Dough, filling (pork, shrimp, vegetables)",
+      "reviews_count": 300,
+      "time_taken": 35,
+      "distance": 1.0,
+      "tag": "Savory"
+    },
+    {
+      "food_name": "Mapo Tofu",
+      "food_image": "<image_url_for_mapo_tofu>",
+      "rating": 4.5,
+      "ingredients": "Tofu, ground pork, chili bean paste, Sichuan peppercorns",
+      "reviews_count": 280,
+      "time_taken": 20,
+      "distance": 1.3,
+      "tag": "Spicy"
+    },
+    {
+      "food_name": "Chow Mein",
+      "food_image": "<image_url_for_chow_mein>",
+      "rating": 4.6,
+      "ingredients": "Noodles, vegetables, choice of meat (chicken, beef, pork)",
+      "reviews_count": 300,
+      "time_taken": 25,
+      "distance": 1.2,
+      "tag": "Satisfying"
+    },{
+      "food_name": "Margherita Pizza",
+      "food_image": "<image_url_for_margherita_pizza>",
+      "rating": 4.7,
+      "ingredients": "Tomato sauce, mozzarella cheese, basil leaves",
+      "reviews_count": 400,
+      "time_taken": 30,
+      "distance": 1.2,
+      "tag": "Classic"
+    },
+    {
+      "food_name": "Pepperoni Pizza",
+      "food_image": "<image_url_for_pepperoni_pizza>",
+      "rating": 4.8,
+      "ingredients": "Tomato sauce, mozzarella cheese, pepperoni slices",
+      "reviews_count": 380,
+      "time_taken": 35,
+      "distance": 1.5,
+      "tag": "Savory"
+    },
+    {
+      "food_name": "Vegetarian Pizza",
+      "food_image": "<image_url_for_vegetarian_pizza>",
+      "rating": 4.6,
+      "ingredients": "Tomato sauce, mozzarella cheese, assorted vegetables (bell peppers, onions, mushrooms)",
+      "reviews_count": 350,
+      "time_taken": 40,
+      "distance": 1.3,
+      "tag": "Healthy"
+    },
+    {
+      "food_name": "Hawaiian Pizza",
+      "food_image": "<image_url_for_hawaiian_pizza>",
+      "rating": 4.5,
+      "ingredients": "Tomato sauce, mozzarella cheese, ham, pineapple",
+      "reviews_count": 320,
+      "time_taken": 35,
+      "distance": 1.4,
+      "tag": "Tropical"
+    },
+    {
+      "food_name": "BBQ Chicken Pizza",
+      "food_image": "<image_url_for_bbq_chicken_pizza>",
+      "rating": 4.6,
+      "ingredients": "BBQ sauce, mozzarella cheese, grilled chicken, red onions",
+      "reviews_count": 330,
+      "time_taken": 40,
+      "distance": 1.6,
+      "tag": "Smoky"
     }
   ],
   "profile": {
