@@ -192,8 +192,8 @@
       "reviews_count": 300,
       "time_taken": 35,
       "distance": 1.0,
-      "tag": "Savory"
-      "category":"Chinese",
+      "tag": "Savory",
+      "category":"Chinese"
     },
     {
       "food_name": "Mapo Tofu",
@@ -203,8 +203,8 @@
       "reviews_count": 280,
       "time_taken": 20,
       "distance": 1.3,
-      "tag": "Spicy"
-      "category":"Chinese",
+      "tag": "Spicy",
+      "category":"Chinese"
     },
     {
       "food_name": "Chow Mein",
@@ -214,8 +214,8 @@
       "reviews_count": 300,
       "time_taken": 25,
       "distance": 1.2,
-      "tag": "Satisfying"
-      "category":"Chinese",
+      "tag": "Satisfying",
+      "category":"Chinese"
     },{
       "food_name": "Margherita Pizza",
       "food_image": "<image_url_for_margherita_pizza>",
