@@ -1,4 +1,13 @@
 {
+    
+    "categories": [
+        "Gravy",
+        "Veg",
+        "Non Veg",
+        "Desert",
+        "Chinese",
+        "Pizza"
+    ],
     "foods": [
         {
             "id":1122,
