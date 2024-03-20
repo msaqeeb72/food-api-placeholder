@@ -1,6 +1,15 @@
 {
+    "categories": [
+        "Gravy",
+        "Veg",
+        "Non Veg",
+        "Desert",
+        "Chinese",
+        "Pizza"
+    ],
     "foods": [
         {
+            "id":1122,
             "food_name": "Chicken Masala",
             "food_image": "https://example.com/chicken_masala.jpg",
             "rating": 4.5,
@@ -12,6 +21,7 @@
             "tag": "Best Seller"
         },
         {
+            "id":1123,
             "food_name": "Paneer Butter Masala",
             "food_image": "https://example.com/paneer_butter_masala.jpg",
             "rating": 4.7,
@@ -23,6 +33,7 @@
             "tag": "Vegetarian"
         },
         {
+            "id":1123,
             "food_name": "Mutton Rogan Josh",
             "food_image": "https://example.com/mutton_rogan_josh.jpg",
             "rating": 4.6,
@@ -34,6 +45,7 @@
             "tag": "Spicy"
         },
         {
+            "id":1124,
             "food_name": "Palak Paneer",
             "food_image": "https://example.com/palak_paneer.jpg",
             "rating": 4.4,
@@ -45,6 +57,7 @@
             "tag": "Vegetarian"
         },
         {
+            "id":1125,
             "food_name": "Kadai Chicken",
             "food_image": "https://example.com/kadai_chicken.jpg",
             "rating": 4.8,
@@ -56,6 +69,7 @@
             "tag": "Best Seller"
         },
         {
+            "id":1126,
             "food_name": "Chicken Biryani",
             "food_image": "https://example.com/chicken_biryani.jpg",
             "rating": 4.8,
@@ -67,6 +81,7 @@
             "tag": "Best Seller"
         },
         {
+            "id":1127,
             "food_name": "Paneer Butter Masala",
             "food_image": "https://example.com/paneer_butter_masala.jpg",
             "rating": 4.7,
@@ -78,6 +93,7 @@
             "tag": "Vegetarian"
         },
         {
+            "id":1128,
             "food_name": "Mutton Curry",
             "food_image": "https://example.com/mutton_curry.jpg",
             "rating": 4.6,
@@ -89,6 +105,7 @@
             "tag": "Spicy"
         },
         {
+            "id":1129,
             "food_name": "Vegetable Biryani",
             "food_image": "https://example.com/vegetable_biryani.jpg",
             "rating": 4.5,
@@ -100,6 +117,7 @@
             "tag": "Vegetarian"
         },
         {
+            "id":1130,
             "food_name": "Fish Curry",
             "food_image": "https://example.com/fish_curry.jpg",
             "rating": 4.4,
@@ -111,6 +129,7 @@
             "tag": "Best Seller"
         },
         {
+            "id":1131,
             "food_name": "Gulab Jamun",
             "food_image": "<image_url_for_food>",
             "rating": 4.9,
@@ -122,6 +141,7 @@
             "tag": "Sweet"
         },
         {
+            "id":1132,
             "food_name": "Rasgulla",
             "food_image": "<image_url_for_food>",
             "rating": 4.7,
@@ -133,6 +153,7 @@
             "tag": "Sweet"
         },
         {
+            "id":1133,
             "food_name": "Ice Cream Sundae",
             "food_image": "<image_url_for_ice_cream_sundae>",
             "rating": 4.6,
@@ -144,6 +165,7 @@
             "tag": "Indulgent"
         },
         {
+            "id":1134,
             "food_name": "Chocolate Cake",
             "food_image": "<image_url_for_chocolate_cake>",
             "rating": 4.8,
@@ -155,6 +177,7 @@
             "tag": "Decadent"
         },
         {
+            "id":1135,
             "food_name": "Fruit Salad",
             "food_image": "<image_url_for_fruit_salad>",
             "rating": 4.5,
@@ -166,6 +189,7 @@
             "tag": "Healthy"
         },
         {
+            "id":1136,
             "food_name": "Kung Pao Chicken",
             "food_image": "<image_url_for_kung_pao_chicken>",
             "rating": 4.8,
@@ -177,6 +201,7 @@
             "tag": "Spicy"
         },
         {
+            "id":1137,
             "food_name": "Sweet and Sour Pork",
             "food_image": "<image_url_for_sweet_and_sour_pork>",
             "rating": 4.6,
@@ -188,6 +213,7 @@
             "tag": "Tangy"
         },
         {
+            "id":1138,
             "food_name": "Dumplings",
             "food_image": "<image_url_for_dumplings>",
             "rating": 4.7,
@@ -199,6 +225,7 @@
             "category": "Chinese"
         },
         {
+            "id":1139,
             "food_name": "Mapo Tofu",
             "food_image": "<image_url_for_mapo_tofu>",
             "rating": 4.5,
@@ -210,6 +237,7 @@
             "category": "Chinese"
         },
         {
+            "id":1140,
             "food_name": "Chow Mein",
             "food_image": "<image_url_for_chow_mein>",
             "rating": 4.6,
@@ -221,6 +249,7 @@
             "category": "Chinese"
         },
         {
+            "id":1141,
             "food_name": "Margherita Pizza",
             "food_image": "<image_url_for_margherita_pizza>",
             "rating": 4.7,
@@ -232,6 +261,7 @@
             "tag": "Classic"
         },
         {
+            "id":1142,
             "food_name": "Pepperoni Pizza",
             "food_image": "<image_url_for_pepperoni_pizza>",
             "rating": 4.8,
@@ -243,6 +273,7 @@
             "category": "Pizza"
         },
         {
+            "id":1144,
             "food_name": "Vegetarian Pizza",
             "food_image": "<image_url_for_vegetarian_pizza>",
             "rating": 4.6,
@@ -254,6 +285,7 @@
             "category": "Pizza"
         },
         {
+            "id":1145,
             "food_name": "Hawaiian Pizza",
             "food_image": "<image_url_for_hawaiian_pizza>",
             "rating": 4.5,
@@ -265,6 +297,7 @@
             "category": "Pizza"
         },
         {
+            "id":1146,
             "food_name": "BBQ Chicken Pizza",
             "food_image": "<image_url_for_bbq_chicken_pizza>",
             "rating": 4.6,
